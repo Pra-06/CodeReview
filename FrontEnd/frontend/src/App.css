@@ -39,6 +39,11 @@ main .left{
 main .right{
   
   background-color: gray;
+  color: black;
+  padding:1rem 2rem;
+  overflow:auto;
+  border-radius: 0.7rem;
+  
  
 }
 main .left .review{
